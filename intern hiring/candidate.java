@@ -1,6 +1,5 @@
-package intern hiring;
-
-public public class Candidate {
+//Candidate.java
+public class Candidate {
     private String name;
     private String gender;
     private int percentage;
@@ -28,6 +27,4 @@ public public class Candidate {
     public void setPercentage(int percentage) {
         this.percentage = percentage;
     }
-} {
-    
 }
